@@ -1,0 +1,71 @@
+body{
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding:20;
+  margin:20;
+  background-color:#ffffff;  
+}
+
+aside#sidebar{
+  width:40%;
+  margin-top:1px;
+  padding-right:px;
+  float: right;
+  margin-right: 300px;
+
+}
+ #sidebar h4
+{
+	color: #00ff00;
+}
+aside#sidebar .login input
+{
+	height: 35px;
+	width: 60%
+}
+aside#sidebar .button1 input
+{
+background:#26d926;
+border: none;
+cursor: pointer;
+
+}
+
+
+aside#sidebar .or h4
+{
+  margin-right: 220px;
+  color:  #ff0000;
+  margin-top: -1px;
+}
+
+aside#sidebar .button2 input
+{
+background:#2D67F7;
+border: none;
+margin-top: -6px;
+cursor: pointer;
+
+}
+section .back input
+{
+ cursor: pointer;
+}
+
+footer{
+  padding-top: 298px;
+  text-align: center;
+  padding-left: 30px;
+}
+
+/* style inputs and link buttons */
+/*input,
+.btn {
+  width: 0%;
+  padding: 12px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; /* remove underline from anchors */
+}*/

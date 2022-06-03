@@ -1,0 +1,53 @@
+body{
+  font: 20px/1.5 Arial, Helvetica,sans-serif;
+  padding:20;
+  margin:20;
+  background-color:#ffffff;  
+}
+
+aside#sidebar{
+  float:right;
+  width:40%;
+  margin-top:1px;
+  padding-right:px;
+  margin-right: 300px;
+
+
+}
+ #sidebar h4
+{
+	color: #00ff00;
+}
+aside#sidebar .login input
+{
+	height: 35px;
+	width: 60%;
+	padding: 12px;
+	margin: 5px 0;
+}
+aside#sidebar .button1 input
+{
+	background:#26d926;
+	border: none;
+	padding: 12px;
+	margin: 5px 0;
+	opacity: 0.85;
+	display: inline-block;
+	font-size: 15px;
+	cursor: pointer;
+}
+section .back input
+{
+ cursor: pointer;
+}
+
+
+footer {
+  padding-top: 360px;
+  text-align: center;
+}
+
+
+
+
+
